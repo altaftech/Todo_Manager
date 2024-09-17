@@ -1,0 +1,37 @@
+[
+    {
+    "product_id": "1",
+    "product_name": "Margherita",
+    "product_image": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/margherita.90f9451fd66871fb6f9cf7d506053f18.1.jpg",
+    "product_price": "160",
+    "product_quantity": "1"
+    },
+    {
+    "product_id": "2",
+    "product_name": "Schezwan Margherita",
+    "product_image": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/schezwan-margherita.4371d9483546db47a97c5503ccad0c2f.1.jpg",
+    "product_price": "250",
+    "product_quantity": "1"
+    },
+    {
+    "product_id": "3",
+    "product_name": "Mazedar Makhni Paneer",
+    "product_image": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/mazedar-makhni-paneer.cb3150d2be9cb8dcd248be70921c5196.1.jpg",
+    "product_price": "189",
+    "product_quantity": "1"
+    },
+    {
+    "product_id": "4",
+    "product_name": "Awesome American Cheesy",
+    "product_image": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/awesome-american-cheesy.17f198e5a73db40c367ddfe96da54a4c.1.jpg",
+    "product_price": "650",
+    "product_quantity": "1"
+    },
+    {
+    "product_id": "5",
+    "product_name": "Mexican Fiesta",
+    "product_image": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/mexican-fiesta.559a1961ca021b8fb90367c6918e50f1.1.jpg",
+    "product_price": "450",
+    "product_quantity": "1"
+    }
+    ]
